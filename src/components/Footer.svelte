@@ -1,0 +1,21 @@
+<script>
+	import Button from '../UI/Button.svelte';
+</script>
+
+<footer class="bg-yellow-500 flex py-28">
+	<div class="flex justify-center w-full">
+		<div class="w-1/2 justify-center flex-col flex ">
+			<h2 class="uppercase text-white font-semibold text-4xl text-right">construction charente</h2>
+			<p class="text-white text-right text-lg">Sample text. Lorem ipsum dolor sit amet.</p>
+		</div>
+		<div class="w-1/2 flex justify-center items-center">
+			<div>
+				<Button
+					href="/"
+					classAnchor="bg-yellow-400 border-2 border-white text-white text-lg font-semibold hover:text-yellow-400 hover:border-yellow-500 hover:bg-white active:bg-gray-100 py-3 px-7"
+					>demade de projet</Button
+				>
+			</div>
+		</div>
+	</div>
+</footer>
