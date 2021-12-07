@@ -1,27 +1,25 @@
 <script>
 	import { createEventDispatcher } from 'svelte';
+	import Button from './Button.svelte';
+
+	// export let id;
 
 	const dispatch = createEventDispatcher();
 
-	const closeModal = () => {
+	const close = () => {
 		dispatch('close');
 	};
-
-	const openModal = () => {
-		dispatch('open');
-	};
-
-	export let content;
 </script>
 
-<div class="backdrop">
-	<div class="fixed top-28 left-28 w-2/3 bg-white rounded-lg shadow-2xl overflow-scroll modal">
-		{content}
+<div class="backdrop" on:click={close} />
+<div class="fixed top-28 left-28 w-2/3 bg-white rounded-lg shadow-2xl overflow-hidden modalOne">
+	<div class="w-full h-full">
+		<slot name="modalOne" />
 	</div>
 </div>
 
 <style>
-	.modal {
+	.modalOne {
 		max-height: 80vh;
 		z-index: 100;
 	}

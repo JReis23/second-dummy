@@ -1,9 +1,18 @@
 <script>
 	import Header from '../components/Header.svelte';
+	import { fade } from 'svelte/transition';
+
+	let scroll = 0;
+
+	let navOrigin = 'fixed w-full navbar mb-2 shadow-xl text-neutral-content';
+	let navMoved =
+		'fixed w-full navbar mb-2 shadow-xl text-neutral-content bg-white bg-opacity-80 z-100 text-black';
 </script>
 
+<svelte:window bind:scrollY={scroll} />
+
 <Header>
-	<nav class="navbar mb-2 shadow-lg text-neutral-content rounded-box" slot="navBar">
+	<nav class="{scroll ? navMoved : navOrigin} z-50" slot="navBar">
 		<div class="px-2 mx-2 navbar-start">
 			<span class="text-lg font-bold"> Logo </span>
 		</div>

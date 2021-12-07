@@ -1,4 +1,4 @@
-<section class="flex justify-center py-20 bg-black bg-opacity-80">
+<section class="flex justify-center py-20 bg-black bg-opacity-90">
 	<div class="flex flex-col">
 		<div class="flex flex-col pb-16 items-center">
 			<h3 class="uppercase text-3xl text-yellow-400 font-semibold">témoignages</h3>

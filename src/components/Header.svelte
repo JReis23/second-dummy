@@ -7,7 +7,7 @@
 		<slot name="navBar" />
 	</div>
 	<div class="w-auto md:w-2/3 lg:w-1/2 mb-20">
-		<div class="flex justify-center py-4 rounded-xl bg-gray-500 bg-opacity-70 md:mx-10">
+		<div class="flex justify-center py-4 rounded-xl bg-black bg-opacity-50 md:mx-10">
 			<div class="px-2 ">
 				<h2 class="text-yellow-400 text-4xl uppercase font-black">Nous sommes des constructeurs</h2>
 				<h1 class="uppercase text-white text-6xl py-4 font-black">nous construirons votre rêve</h1>
