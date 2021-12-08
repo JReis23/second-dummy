@@ -1,11 +1,11 @@
 <section class="flex justify-center py-20">
 	<div class="flex flex-col">
 		<div class="flex flex-col pb-16 items-center">
-			<h3 class="uppercase text-3xl text-yellow-400 font-semibold">pas à pas</h3>
-			<h2 class="uppercase font-bold my-6 text-4xl">comment ça marche</h2>
+			<h3 class="uppercase text-xl md:text-3xl text-yellow-400 font-semibold">pas à pas</h3>
+			<h2 class="uppercase font-bold my-6 text-2xl md:text-4xl">comment ça marche</h2>
 			<span class="border-2 w-20 border-yellow-400 mt-4" />
 		</div>
-		<div class="max-w-screen-lg flex py-10">
+		<div class="max-w-screen-lg flex flex-col md:flex-row py-10">
 			<div class="items-center flex flex-col">
 				<div class="rounded-full bg-yellow-400 h-28 w-28 flex justify-center items-center">
 					<i class="fas fa-edit text-5xl text-white ml-3" />

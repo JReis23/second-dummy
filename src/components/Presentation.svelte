@@ -24,16 +24,20 @@
 </script>
 
 <section class="py-20 flex justify-center ">
-	<div class="max-w-screen-xl flex">
-		<div class="w-1/2 px-10">
-			<h2 class="text-yellow-400 text-4xl uppercase font-black">BIENVENUE A</h2>
-			<h1 class="uppercase text-6xl py-4 font-black">CONSTRUCTION CHARENTE</h1>
+	<div class="max-w-screen-xl flex flex-col items-center lg:flex-row px-10">
+		<div class="w-full lg:w-1/2 px-10 py-10 lg:py-0">
+			<h2 class="text-yellow-400 text-2xl md:text-3xl lg:text-4xl uppercase font-black">
+				BIENVENUE A
+			</h2>
+			<h1 class="uppercase text-3xl md:text-5xl lg:text-6xl py-4 font-black">
+				CONSTRUCTION CHARENTE
+			</h1>
 			<span class="border-2 rounded-full border-yellow-400 inline-block w-20" />
-			<p class="text-2xl italic pt-8">
+			<p class="text-lg md:text-2xl italic pt-8">
 				Nous sommes le leader avec 25 ans d'expérience sur le marché de la construction!
 			</p>
 		</div>
-		<div class="w-1/2">
+		<div class="lg:w-1/2 w-full ">
 			<p class="pb-8 text-lg">
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida cursus eleifend.
 				Nullam ornare sapien quis vulputate cursus. Vivamus vel pellentesque purus, sed dignissim

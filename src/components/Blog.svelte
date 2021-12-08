@@ -10,8 +10,8 @@
 <section class="flex justify-center items-center py-20 flex-col">
 	<div class="flex flex-col">
 		<div class="flex flex-col pb-16 items-center">
-			<h3 class="uppercase text-3xl text-yellow-400 font-semibold">le blog</h3>
-			<h2 class="uppercase font-bold my-6 text-4xl">dernières nouvelles</h2>
+			<h3 class="uppercase text-xl md:text-3xl text-yellow-400 font-semibold">le blog</h3>
+			<h2 class="uppercase font-bold my-6 text-2xl md:text-4xl">dernières nouvelles</h2>
 			<span class="border-2 w-20 border-yellow-400 mt-4" />
 		</div>
 	</div>

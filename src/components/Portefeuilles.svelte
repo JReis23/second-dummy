@@ -10,7 +10,7 @@
 	{#if zoom}
 		<div
 			transition:fade={{ duration: 800 }}
-			class="fixed w-3/5 z-50 bg-white rounded-lg shadow-2xl overflow-hidden modalOne"
+			class=" fixed w-3/5 z-50 bg-white rounded-lg shadow-2xl overflow-hidden modalOne"
 		>
 			<div class="w-full h-full">
 				<img src={link} alt={description} />
@@ -31,12 +31,14 @@
 		height: 100%;
 	}
 
-	.zoom {
-		scale: 2;
-	}
-
 	.modalOne {
 		top: 15vh;
 		left: 20vw;
+	}
+
+	@media (max-width: 1023px) {
+		.portefeuillesImages {
+			max-height: 100%;
+		}
 	}
 </style>

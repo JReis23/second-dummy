@@ -3,8 +3,8 @@
 </script>
 
 <section class="flex justify-center py-20">
-	<div class="flex max-w-screen-lg">
-		<div class="img">
+	<div class="flex flex-col lg:flex-row max-w-screen-lg ">
+		<div class="img py-10 flex justify-center w-full">
 			<img
 				src="../static/images/Blank_Map_of_Charente_Department,_France,_with_Communes.svg"
 				alt=""
@@ -12,8 +12,12 @@
 		</div>
 		<div class="flex flex-col px-10 justify-between">
 			<div>
-				<h3 class="uppercase text-yellow-400 text-3xl font-semibold">construction charente</h3>
-				<h2 class="uppercase text-4xl font-bold py-4">la meilleure équipe de la charente</h2>
+				<h3 class="uppercase text-yellow-400 text-xl md:text-3xl font-semibold">
+					construction charente
+				</h3>
+				<h2 class="uppercase text-2xl md:text-4xl font-bold py-4">
+					la meilleure équipe de la charente
+				</h2>
 				<span class="inline-block border-2 border-yellow-400 rounded-full w-20" />
 			</div>
 			<p class="text-lg">
@@ -35,6 +39,12 @@
 
 <style>
 	.img {
-		width: 100vw;
+		width: 100%;
+	}
+
+	@media (max-width: 1023px) {
+		.img {
+			width: 60%;
+		}
 	}
 </style>
