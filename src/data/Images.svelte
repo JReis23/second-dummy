@@ -24,15 +24,16 @@
 	<div class="grid grid-cols-4 gap-0">
 		{#each images as image (image.id)}
 			<Portefeuilles link={image.link} description={image.description} on:click={openModal} />
-			<!-- {#if showModal}
-				<Modal on:close={closeModal}>
-					<div slot="modalOne">
-						<img src={image.link} alt={image.description} />
-						<h1>{image.id}</h1>
-						{console.log(image.id)}
-					</div>
-				</Modal>
-			{/if} -->
 		{/each}
 	</div>
 </section>
+
+<!-- {#if showModal}
+		<Modal on:close={closeModal}>
+			<div slot="modalOne">
+				<img src={image.link} alt={image.description} />
+				<h1>{image.id}</h1>
+				{console.log(image.id)}
+			</div>
+		</Modal>
+	{/if} -->

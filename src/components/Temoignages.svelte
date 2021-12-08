@@ -13,7 +13,7 @@
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title text-yellow-400 text-3xl uppercase">christine</h2>
-					<p class="text-white text-lg">
+					<p class="text-white text-lg italic">
 						Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus
 						veritatis sed molestiae voluptates incidunt iure sapiente.
 					</p>
@@ -25,7 +25,7 @@
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title text-yellow-400 text-3xl uppercase">christophe</h2>
-					<p class="text-white text-lg">
+					<p class="text-white text-lg italic">
 						Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus
 						veritatis sed molestiae voluptates incidunt iure sapiente.
 					</p>
@@ -37,7 +37,7 @@
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title text-yellow-400 text-3xl uppercase">andre</h2>
-					<p class="text-white text-lg">
+					<p class="text-white text-lg italic">
 						Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus
 						veritatis sed molestiae voluptates incidunt iure sapiente.
 					</p>
