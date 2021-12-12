@@ -18,7 +18,7 @@
 	<div class="flex flex-col lg:flex-row max-w-screen-xl justify-center items-center px-4">
 		<div class="mx-8">
 			<div>
-				<img src="../static/images/b(1).jpg" alt="" />
+				<img src="/images/b(1).jpg" alt="" />
 			</div>
 			<div class="pt-4">
 				<h3 class="uppercase text-3xl font-medium ">GRANDS PROJETS</h3>
@@ -32,7 +32,7 @@
 		</div>
 		<div class="mx-8">
 			<div>
-				<img src="../static/images/b(2).jpg" alt="" />
+				<img src="/images/b(2).jpg" alt="" />
 			</div>
 			<div class="pt-4">
 				<h3 class="uppercase text-3xl font-medium">GRANDS PROJETS</h3>
@@ -46,7 +46,7 @@
 		</div>
 		<div class="mx-8">
 			<div>
-				<img src="../static/images/b(3).jpg" alt="" />
+				<img src="/images/b(3).jpg" alt="" />
 			</div>
 			<div class="pt-4">
 				<h3 class="uppercase text-3xl font-medium">GRANDS PROJETS</h3>

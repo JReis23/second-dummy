@@ -5,7 +5,7 @@
 	<div class="flex flex-col items-center lg:grid lg:grid-flow-col">
 		<div
 			class="bg-no-repeat md:bg-contain inLineImages grid-cols-1"
-			style="background-image: url('../static/images/meeting.jpg');"
+			style="background-image: url('/images/meeting.jpg');"
 		>
 			<div class="p-6 flex flex-col justify-end h-full bg-black bg-opacity-50">
 				<div class="">
@@ -21,7 +21,7 @@
 		</div>
 		<div
 			class="bg-no-repeat bg-center md:bg-contain inLineImages"
-			style="background-image: url('../static/images/house.jpeg');"
+			style="background-image: url('/images/house.jpeg');"
 		>
 			<div class="p-6 flex flex-col justify-end h-full bg-black bg-opacity-50">
 				<div class="">
@@ -37,7 +37,7 @@
 		</div>
 		<div
 			class="bg-no-repeat bg-center md:bg-contain inLineImages"
-			style="background-image: url('../static/images/furniture.jpg');"
+			style="background-image: url('/images/furniture.jpg');"
 		>
 			<div class="p-6 flex flex-col justify-end h-full bg-black bg-opacity-50">
 				<div class="">
