@@ -9,7 +9,7 @@
 		<div class="flex flex-col md:flex-row max-w-screen-lg justify-center">
 			<div class="px-4 flex ">
 				<div>
-					<i class="fas fa-pen-fancy text-6xl border border-yellow-400 rounded-xl p-2" />
+					<i class="fas fa-pen-fancy text-4xl border border-yellow-400 rounded-xl p-4" />
 				</div>
 				<div class="pl-6">
 					<h4 class="text-lg md:text-2xl font-bold">CONCEPTION ET PLANIFICATION</h4>
@@ -20,7 +20,7 @@
 			</div>
 			<div class="px-4 flex ">
 				<div>
-					<i class="fas fa-tools text-6xl border border-yellow-400 rounded-xl p-2" />
+					<i class="fas fa-tools text-4xl border border-yellow-400 rounded-xl p-4" />
 				</div>
 				<div class="pl-6">
 					<h4 class="text-lg md:text-2xl font-bold">RENOVATION DE BATIMENT</h4>
@@ -31,7 +31,7 @@
 			</div>
 			<div class="px-4 flex ">
 				<div>
-					<i class="fas fa-paint-roller text-6xl border border-yellow-400 rounded-xl p-2" />
+					<i class="fas fa-paint-roller text-4xl border border-yellow-400 rounded-xl p-4" />
 				</div>
 				<div class="pl-6">
 					<h4 class="text-lg md:text-2xl font-bold">DESIGN INTERIEUR</h4>
@@ -44,7 +44,7 @@
 		<div class="flex flex-col md:flex-row max-w-screen-lg justify-center pt-10">
 			<div class="px-4 flex ">
 				<div>
-					<i class="fas fa-hand-paper text-6xl border border-yellow-400 rounded-xl p-2" />
+					<i class="fas fa-hand-paper text-4xl border border-yellow-400 rounded-xl p-4" />
 				</div>
 				<div class="pl-6">
 					<h4 class="text-lg md:text-2xl font-bold">SERVICES DE CONSTRUCTION</h4>
@@ -55,7 +55,7 @@
 			</div>
 			<div class="px-4 flex ">
 				<div>
-					<i class="fas fa-file-alt text-6xl border border-yellow-400 rounded-xl p-2" />
+					<i class="fas fa-file-alt text-4xl border border-yellow-400 rounded-xl p-4" />
 				</div>
 				<div class="pl-6">
 					<h4 class="text-lg md:text-2xl font-bold">DOCUMENTATION</h4>
@@ -66,7 +66,7 @@
 			</div>
 			<div class="px-4 flex ">
 				<div>
-					<i class="fas fa-headset text-6xl border border-yellow-400 rounded-xl p-2" />
+					<i class="fas fa-headset text-4xl border border-yellow-400 rounded-xl p-4" />
 				</div>
 				<div class="pl-6">
 					<h4 class="text-lg md:text-2xl font-bold">SOUTIEN PROFISSIONNEL</h4>
