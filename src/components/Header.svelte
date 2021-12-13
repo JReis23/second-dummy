@@ -43,7 +43,7 @@
 
 <style>
 	header {
-		background-image: url('../static/images/building-1510561_1920(1).jpeg');
+		background-image: url('/images/building-1510561_1920(1).jpeg');
 		height: auto;
 	}
 </style>

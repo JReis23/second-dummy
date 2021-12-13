@@ -5,10 +5,7 @@
 <section class="flex justify-center py-20">
 	<div class="flex flex-col lg:flex-row max-w-screen-lg ">
 		<div class="img py-10 flex justify-center w-full">
-			<img
-				src="../static/images/Blank_Map_of_Charente_Department,_France,_with_Communes.svg"
-				alt=""
-			/>
+			<img src="/images/Blank_Map_of_Charente_Department,_France,_with_Communes.svg" alt="" />
 		</div>
 		<div class="flex flex-col px-10 justify-between">
 			<div>

@@ -1,6 +1,6 @@
 <section
 	class="flex h-auto lg:h-80 bg-center"
-	style="background-image: url('../static/images/chairs-2181947_1920.jpg');"
+	style="background-image: url('/images/chairs-2181947_1920.jpg');"
 >
 	<div class="w-full bg-black bg-opacity-80 flex justify-center">
 		<div class="flex flex-col lg:flex-row w-max-screen-lg justify-center">

@@ -9,7 +9,7 @@
 		<div class="flex flex-col lg:flex-row max-w-screen-xl justify-center">
 			<div class="card text-center shadow-2xl m-4">
 				<figure class="px-16 pt-16">
-					<img src="../static/images/portrait-2159177_640(1).jpg" class="rounded-xl" alt="" />
+					<img src="/images/portrait-2159177_640(1).jpg" class="rounded-xl" alt="" />
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title text-yellow-400 text-3xl uppercase">christine</h2>
@@ -21,7 +21,7 @@
 			</div>
 			<div class="card text-center shadow-2xl m-4">
 				<figure class="px-16 pt-16">
-					<img src="../static/images/portrait-2194457_640(1).jpg" class="rounded-xl" alt="" />
+					<img src="/images/portrait-2194457_640(1).jpg" class="rounded-xl" alt="" />
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title text-yellow-400 text-3xl uppercase">christophe</h2>
@@ -33,7 +33,7 @@
 			</div>
 			<div class="card text-center shadow-2xl m-4">
 				<figure class="px-16 pt-16">
-					<img src="../static/images/portrait-3157821_640(1).jpg" class="rounded-xl" alt="" />
+					<img src="/images/portrait-3157821_640(1).jpg" class="rounded-xl" alt="" />
 				</figure>
 				<div class="card-body">
 					<h2 class="card-title text-yellow-400 text-3xl uppercase">andre</h2>

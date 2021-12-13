@@ -35,6 +35,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^5.15.4",
+		"@sveltejs/adapter-node": "^1.0.0-next.55",
 		"daisyui": "^1.16.2"
 	}
 }
