@@ -14,7 +14,7 @@
 <Header>
 	<nav class="{scroll ? navMoved : navOrigin} z-50" slot="navBar">
 		<div class="px-2 mx-2 navbar-start">
-			<span class="text-lg font-bold"> Logo </span>
+			<span class="text-lg font-bold">Logo</span>
 		</div>
 		<div class="hidden px-2 mx-2 navbar-center lg:flex">
 			<div class="flex items-stretch">
