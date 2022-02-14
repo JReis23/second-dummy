@@ -18,10 +18,5 @@
 			</div>
 		</div>
 	</div>
-	<div class="flex justify-center mt-10 shadow-lg lg:w-1/5 self-center">
-		<h6 class="text-center text-white font-medium text-lg flex items-center">
-			Créé par
-			<Button href="https://www.noveoo.fr" classAnchor="font-bold border-none">Noveoo</Button>
-		</h6>
-	</div>
+	<div class="flex justify-center mt-10 shadow-lg lg:w-1/5 self-center" />
 </footer>
